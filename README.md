@@ -5,8 +5,7 @@ A payment app for wafii payment test.
 
 - You need to have python v3+ installed on your computer
 
-- Postgres database running either locally or remote.
-
+- python unit test package "unittest"
 
 ## Get started
 
